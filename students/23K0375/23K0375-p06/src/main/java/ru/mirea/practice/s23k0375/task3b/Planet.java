@@ -1,9 +1,9 @@
-package ru.mirea.practice.s23k0375.task3a;
+package ru.mirea.practice.s23k0375.task3b;
 
-class Car implements Nameable {
+class Planet implements Nameable {
     private String name;
 
-    public Car(String name) {
+    public Planet(String name) {
         this.name = name;
     }
 

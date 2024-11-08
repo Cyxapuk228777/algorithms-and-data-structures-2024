@@ -1,4 +1,4 @@
-package ru.mirea.practice.s23k0375.task2;
+package ru.mirea.practice.s23k0375.task2a;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;

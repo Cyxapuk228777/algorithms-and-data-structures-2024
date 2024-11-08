@@ -1,4 +1,4 @@
-package ru.mirea.practice.s23k0375.task1;
+package ru.mirea.practice.s23k0375.task1a;
 
 import java.util.Date;
 
